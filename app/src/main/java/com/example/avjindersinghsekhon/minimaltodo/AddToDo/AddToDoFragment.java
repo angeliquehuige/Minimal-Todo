@@ -77,7 +77,7 @@ public class AddToDoFragment extends AppDefaultFragment implements DatePickerDia
     private FloatingActionButton mToDoSendFloatingActionButton;
     public static final String DATE_FORMAT = "MMM d, yyyy";
     public static final String DATE_FORMAT_MONTH_DAY = "MMM d";
-    public static final String DATE_FORMAT_TIME = "H:m";
+    public static final String DATE_FORMAT_TIME = "H:m:s";
 
     private String mUserEnteredText;
     private String mUserEnteredDescription;
